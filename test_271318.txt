@@ -1,0 +1,9 @@
+CONDA_PREFIX=/homes/nmoradi/.conda/envs/temp
+Traceback (most recent call last):
+  File "/homes/nmoradi/sut/main.py", line 4, in <module>
+    from prover import Prover
+  File "/homes/nmoradi/sut/prover.py", line 13
+    [cite_start]self.A_k = signature_A_k # The BB-signature for k: g^(1/(y+k)) [cite: 379]
+                ^^^^
+SyntaxError: invalid syntax
+finished run
